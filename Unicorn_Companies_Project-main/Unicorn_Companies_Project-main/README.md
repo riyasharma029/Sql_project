@@ -11,18 +11,14 @@ Identify key success factors and growth strategies in the startup ecosystem.
 ## Tools and Technologies
 Programming Language: Python
 Libraries: pandas, numpy, matplotlib, seaborn (for data manipulation and visualization)
-Data Source: [Specify your data source, e.g., CSV file, online API]
 Jupyter Notebook: For interactive data analysis and visualization
 
 ## Methodology
-Data Collection: Data on unicorn companies was gathered from [mention source] to ensure reliability and accuracy.
+Data Collection: Data on unicorn companies was gathered from kaggle dataset to ensure reliability and accuracy.
 Data Preprocessing: Cleaning and preparing data to handle missing values, correct data types, and other anomalies.
 Exploratory Data Analysis (EDA): Visualizing and analyzing key metrics, including company valuations, funding stages, and industry trends.
 Insights & Conclusions: Drawing conclusions based on trends and patterns observed in the analysis.
 
-##Key Insights
-[Add a few main insights from your analysis here, e.g., "Fintech companies dominate the unicorn list with a significant valuation increase in the past year."]
-[Include any interesting geographical distribution or investment trends you discovered.]
 
 ## Future Work
 Integrate more datasets for enhanced predictive analysis.
